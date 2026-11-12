@@ -1,3 +1,9 @@
+<!-- project-overview:start -->
+> **项目简介**：基于 Cloudflare Pages 的自托管图床，支持 Telegram 上传通道、可选 R2 存储、图片管理及访问控制。
+>
+> 本仓库是 [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) 的 Fork；下方保留项目文档与原有署名。
+<!-- project-overview:end -->
+
 # Telegraph-Image
 
 Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages and the Telegram Bot API (Telegram Channel).
